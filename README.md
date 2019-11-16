@@ -1,1 +1,1 @@
-# blue-messager-generator
+# blue-message-generator
