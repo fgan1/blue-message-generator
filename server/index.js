@@ -25,4 +25,8 @@ app.get('/yago/', function(req, res){
   res.render('./yago/index.html');
 });
 
+app.get('/itsy/', function(req, res){
+  res.render('./itsy/index.html');
+});
+
 app.listen(PORT, () => console.log(`Example app listening on port ${PORT}!`))
